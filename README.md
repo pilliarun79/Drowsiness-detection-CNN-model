@@ -34,7 +34,13 @@ Pygame
 ** I have organised all the necessary files as below :**
 
 Main_code : In this folder we have haar cascade files which are also available on the internet, I have taken all the available one and used only few for this project. so, dont be confused by looking at the files.
+
 Next is drowsiness model training.ipynb file is the CNN trained model file which helps you to understand about how model is trained to detect the closed eyes below are some model results, drowsiness_detection is the main file which you can run from your cmd to test this project.
+
+![drow-model-evaluation](https://user-images.githubusercontent.com/60965823/198892341-eb6511db-39b2-43fb-913e-c2599c06667c.PNG)
+
+![drow-model-summary](https://user-images.githubusercontent.com/60965823/198892343-092ca998-6a17-4696-839e-df62f9c2f529.PNG)
+
 
 Model: In this folder i have saved all the trained model files during testing and training times, so you might not need it, but can be used for experiment purpose.
 
